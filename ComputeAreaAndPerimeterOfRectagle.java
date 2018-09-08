@@ -1,5 +1,5 @@
 /**********************************************************************
- * Assignment description: Compute the area and perimeter of a rectangle
+ * Compute the area and perimeter of a rectangle
  * *******************************************************************/
 
 package as3;
