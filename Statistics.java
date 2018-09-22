@@ -16,7 +16,7 @@ public class Statistics {
 		*/
 		
 		data = d.clone();
-		sdata = sdata.clone();
+		sdata = d.clone();
 		Arrays.sort(sdata);
 	};
 	public double findMin() {
