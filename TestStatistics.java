@@ -46,7 +46,7 @@ public class TestStatistics {
 			out=out+", " + sortedData[i];
 		}
 
-		out +="Min: "+min+"\n";
+		out +="\nMin: "+min+"\n";
 		out +="Max: "+max+"\n";
 		out +="Mean: "+avg+"\n";
 		out +="Median: "+median+"\n";
