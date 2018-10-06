@@ -1,3 +1,10 @@
+/*
+* Part2.(Statistics2)
+* This program inputs decimal numbers as a String separated by commas/spaces, 
+* then it separates them into tokens one at a time.
+* It converts each token received (as String) into a double
+* and stores it in the corresponding array data element
+**/
 import java.util.Arrays;
 
 public class Statistics {
