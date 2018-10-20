@@ -1,0 +1,11 @@
+15
+1, John Adam,3,93,91,100
+2, Raymond Woo,3,65,68,63
+3, Rick Smith,3,50,58,53
+4, Ray Bartlett,3,62,64,69
+5, Mary Russell,3,93,90,98
+6, Andy Wong,3,89,88,84
+7, Jay Russell,3,71,73,78
+8, Jimmie Wong,3,70,77,72
+9, Jackie Chan,3,85,89,84
+10, Susan Wu,3,80,88,84
