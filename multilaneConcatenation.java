@@ -1,5 +1,3 @@
-package as1;
-
 import javax.swing.JOptionPane; // Library
 
 public class Message {
