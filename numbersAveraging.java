@@ -2,8 +2,6 @@
  * Computes the sum of two numbers and average them 
 **********************************************************/
 
-package as2;
-
 import javax.swing.JOptionPane;
 
 public class Average {
