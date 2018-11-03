@@ -2,8 +2,6 @@
  * Compute the area and perimeter of a rectangle
  * *******************************************************************/
 
-package as3;
-
 import javax.swing.JOptionPane;
 
 public class RectangleProc {
