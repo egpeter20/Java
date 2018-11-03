@@ -63,6 +63,8 @@ public class TestStatistics {
 		out+="Max:"+df.format(max2)+"\n";
 		out+="Mean:"+df.format(mean2)+"\n";
 		out+="Median:"+df.format(median)+"\n";
+		out+="The Total Number of Statistics objects created during execution: " + objectCount;
+
 		JOptionPane.showMessageDialog(null, out);
 		// display objectCount
 	}
