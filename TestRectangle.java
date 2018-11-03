@@ -1,8 +1,5 @@
-/**********************************************************
- * TestRectangle class it tests the Rectangle class
-**********************************************************/
-package as4;
-
+// - Rectangle Operations
+// TestRectangle.java
 import javax.swing.JOptionPane;
 
 public class TestRectangle {
@@ -52,4 +49,29 @@ public class TestRectangle {
 		JOptionPane.showMessageDialog(null, out);
 		
 		}
+}
+// Rectangle.java
+public class Rectangle {
+	private double length, width;
+	
+	public Rectangle(double l, double w) {
+		length = l; width = w;
+	}
+	
+	public double findArea() {
+		return length * width;
+	}
+	
+	public double findPerim() {
+		return 2*(length * width);
+	}
+
+	public double getLength() {
+		return length;
+	}
+
+	public double getWidth() {
+		return width;
+	}
+	
 }
