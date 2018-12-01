@@ -3,6 +3,8 @@ Java From Scratch
 
 Hey Nerds,
 
-this cave is for Java training pureness
+This cave is for Java training purpose.
+Enjoy your time.
 
 Bye Nerds!
+~ Peter
